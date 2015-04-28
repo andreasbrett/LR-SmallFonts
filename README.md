@@ -1,5 +1,5 @@
 # LR-SmallFonts
-nice and small fonts for Adobe Lightroom (makings going through collection, folder and keyword lists so much easier)
+nice and small fonts for Adobe Lightroom (making going through collection, folder and keyword lists so much easier)
 
 ## How to install
 Install this file as "TranslatedStrings.txt" into the Lightroom Language Resources directory, e.g.:
